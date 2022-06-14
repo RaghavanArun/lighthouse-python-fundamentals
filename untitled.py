@@ -1,5 +1,2 @@
-def hello_func():
-    pass
-    
-    
-hello_func():
+import requests
+from bs4 import BeautifulSoup
